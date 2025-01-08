@@ -1,2 +1,3 @@
 # amazon-clone
 Thia is my first git project which is created using html and css.....
+Author-Rohan ghosal
